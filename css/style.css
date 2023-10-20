@@ -1032,6 +1032,10 @@ ul.social-links li a:hover {
 /* Responsive CSS */
 
 @media (max-width: 576px){
+    .dropdown-menu .dropdown-item {
+        background-color: #ff3c00;
+    }
+    
     .banner-bg h1 {
         font-size: 40px;
         text-align: center;
